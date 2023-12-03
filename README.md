@@ -37,7 +37,8 @@ Passionate programmer from Slovenia. I enjoy programming and I'm always curious 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=flat-square&logo=kubernetes&logoColor=blue)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Gatsby.js](https://img.shields.io/badge/Gatsby.js-hotpink?style=flat-square&logo=gatsby&logoColor=purple)
+![Next.js](https://img.shields.io/badge/Next.js-white?style=flat-square&logo=next.js&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-Tailwind_CSS-007ACC?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ## 📫 How to reach me
 
